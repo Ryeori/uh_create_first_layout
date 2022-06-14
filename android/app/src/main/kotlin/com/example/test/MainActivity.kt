@@ -1,4 +1,4 @@
-package com.danshutest.twitter
+package com.danshutest.twotter
 
 import io.flutter.embedding.android.FlutterActivity
 
